@@ -1,3 +1,5 @@
+// /opt/cuda/bin/nvcc main.cu -o main
+
 #include <cstdint>
 #include <stdint.h>
 #include <stdio.h>
