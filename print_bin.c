@@ -17,7 +17,7 @@ int main(int argc, char *argv[]) {
     }
     fclose(input);
     printf("\n");
-	return 0;
+    return 0;
 }
 
 void print_bin(uint8_t num) {
